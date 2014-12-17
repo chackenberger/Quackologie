@@ -39,6 +39,4 @@ public class TestSchar {
 		
 		assertEquals("Quietsch\nKwaak\nQuak\nQuak\n", baos.toString());
 	}
-	
-	
 }
