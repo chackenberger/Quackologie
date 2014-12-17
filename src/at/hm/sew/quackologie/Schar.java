@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class Schar implements Quakfaehig {
 	ArrayList<Quakfaehig> quakende = new ArrayList<Quakfaehig>();
   
-	public void hinzufügen(Quakfaehig quaker) {
+	public void hinzufuegen(Quakfaehig quaker) {
 		quakende.add(quaker);
 	}
   
