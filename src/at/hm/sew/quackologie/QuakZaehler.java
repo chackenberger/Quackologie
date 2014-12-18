@@ -1,8 +1,10 @@
 package at.hm.sew.quackologie;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class QuakZaehler implements Quakfaehig {
 	Quakfaehig ente;
-	static int anzahlDerQuaks;
+	static AtomicInteger anzahlDerQuaks = new AtomicInteger();
   
 	public QuakZaehler(Quakfaehig ente) {
 		this.ente = ente;
@@ -10,18 +12,18 @@ public class QuakZaehler implements Quakfaehig {
   
 	public void quaken() {
 		ente.quaken();
-		anzahlDerQuaks++;
+		anzahlDerQuaks.incrementAndGet();
 	}
  
 	public static int getQuaks() {
-		return anzahlDerQuaks;
+		return anzahlDerQuaks.get();
 	}
 	
 	/**
 	 * Added method for testing to reset the Quak counter
 	 */
 	public static void resetQuaks() {
-		anzahlDerQuaks = 0;
+		anzahlDerQuaks.set(0); 
 	}
  
 	public void registriereBeobachter(Beobachter beobachter) {
