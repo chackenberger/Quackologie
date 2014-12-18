@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ChristophsMBP2" name="at.hm.sew.quackologie.test.TestSchar" skipped="0" tests="1" time="0.059" timestamp="2014-12-18T19:29:16">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="env.XPC_SERVICE_NAME" value="org.eclipse.platform.ide.46324" />
+    <property name="eclipse.pdebuild.templates" value="/Applications/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/templates//" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/classes" />
+    <property name="env.TMPDIR" value="/var/folders/6d/rdw_2_hn1pz4z3p0_klrzk_h0000gn/T/" />
+    <property name="user.country.format" value="AT" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="env.APP_ICON_38809" value="../Resources/Eclipse.icns" />
+    <property name="ant.home" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502" />
+    <property name="java.runtime.version" value="1.8.0_20-b26" />
+    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.UJkADFGffn/Render" />
+    <property name="env.DISPLAY" value="/private/tmp/com.apple.launchd.agyMnBu2CV/org.macosforge.xquartz:0" />
+    <property name="env.JAVA_STARTED_ON_FIRST_THREAD_38809" value="1" />
+    <property name="user.name" value="Christoph" />
+    <property name="env.USER" value="Christoph" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x3" />
+    <property name="ant.file.type.Quackologie" value="file" />
+    <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin" />
+    <property name="user.language" value="de" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="env.XPC_FLAGS" value="0x0" />
+    <property name="ant.project.name" value="Quackologie" />
+    <property name="java.version" value="1.8.0_20" />
+    <property name="user.timezone" value="Europe/Vienna" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="../../../../../../../../Applications/eclipse/" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="DE" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.LOGNAME" value="Christoph" />
+    <property name="ant.file" value="/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/build.xml" />
+    <property name="os.version" value="10.10.1" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="25.20-b23" />
+    <property name="ant.library.dir" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="eclipse.pdebuild.scripts" value="/Applications/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/scripts//" />
+    <property name="user.home" value="/Users/Christoph" />
+    <property name="target" value="1.8" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="/Users/Christoph/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner at.hm.sew.quackologie.test.TestSchar filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/junit/TEST-at.hm.sew.quackologie.test.TestSchar.xml crashfile=/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/junitvmwatcher6018854896692278149.properties propsfile=/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/junit3608828037290855001.properties" />
+    <property name="java.class.path" value="/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/bin:/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/Quackologie_Hackenberger_Malik.jar:/Applications/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar:/Applications/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant-launcher.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant-junit.jar:/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="env.HOME" value="/Users/Christoph" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502" />
+    <property name="java.io.tmpdir" value="/var/folders/6d/rdw_2_hn1pz4z3p0_klrzk_h0000gn/T/" />
+    <property name="eclipse.pdebuild.home" value="/Applications/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/.//" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.7om3GXxON4/Listeners" />
+    <property name="env.JAVA_STARTED_ON_FIRST_THREAD_40312" value="1" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.ext.dirs" value="/Users/Christoph/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="/Applications/eclipse/plugins/org.apache.ant_1.9.2.v201404171502/lib/ant.jar" />
+    <property name="source" value="1.8" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.JAVA_MAIN_CLASS_40312" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,TestZaehlendeEntenfabrik,TestQuakZaehler,TestSchar,TestQuakologe,TestEntenfabrik,junitreport" />
+    <property name="ant.file.Quackologie" value="/Users/Christoph/Documents/Schule/TGM/4AHITT/workspace/Quackologie/build.xml" />
+  </properties>
+  <testcase classname="at.hm.sew.quackologie.test.TestSchar" name="testQuaken" time="0.004" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
