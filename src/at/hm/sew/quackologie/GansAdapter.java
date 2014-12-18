@@ -1,6 +1,8 @@
 package at.hm.sew.quackologie;
 
 /**
+ * source: http://examples.oreilly.de/german_examples/hfdesignpatger/
+ * 
  * Die Adapterklasse für Gans. Sie ermöglicht die interaktion mit Gans als wäre
  * es eine Ente
  * 

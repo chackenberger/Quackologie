@@ -1,6 +1,8 @@
 package at.hm.sew.quackologie;
 
 /**
+ * source: http://examples.oreilly.de/german_examples/hfdesignpatger/
+ * 
  * Implementierung einer Gans die schnattern kann.
  * 
  * @author Christoph Hackenberger, Patrick Malik

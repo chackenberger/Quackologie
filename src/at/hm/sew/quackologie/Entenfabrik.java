@@ -1,6 +1,8 @@
 package at.hm.sew.quackologie;
 
 /**
+ * source: http://examples.oreilly.de/german_examples/hfdesignpatger/
+ * 
  * Eine Factory aufbauend auf AbstrakteEntenfabrik, stellt alle vorhandenen
  * Enten zur Verfügung
  * 

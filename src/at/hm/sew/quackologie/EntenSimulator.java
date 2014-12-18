@@ -1,6 +1,8 @@
 package at.hm.sew.quackologie;
 
 /**
+ * source: http://examples.oreilly.de/german_examples/hfdesignpatger/
+ * 
  * Hier werden verschiedene Verhalten von Enten simuliert.
  * 
  * @author Christoph Hackenberger, Patrick Malik

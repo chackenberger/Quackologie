@@ -1,6 +1,8 @@
 package at.hm.sew.quackologie;
 
 /**
+ * source: http://examples.oreilly.de/german_examples/hfdesignpatger/
+ * 
  * Diese Klasse enthält alle abstrakten Methoden die bspw. Entenfabrik
  * implementiert.
  * 
