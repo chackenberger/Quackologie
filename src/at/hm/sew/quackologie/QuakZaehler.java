@@ -16,6 +16,13 @@ public class QuakZaehler implements Quakfaehig {
 	public static int getQuaks() {
 		return anzahlDerQuaks;
 	}
+	
+	/**
+	 * Added method for testing to reset the Quak counter
+	 */
+	public static void resetQuaks() {
+		anzahlDerQuaks = 0;
+	}
  
 	public void registriereBeobachter(Beobachter beobachter) {
 		ente.registriereBeobachter(beobachter);
