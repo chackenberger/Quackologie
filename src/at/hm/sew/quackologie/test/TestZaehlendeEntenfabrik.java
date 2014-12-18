@@ -9,16 +9,16 @@ import org.junit.Before;
 import org.junit.Test;
 
 import at.hm.sew.quackologie.AbstrakteEntenFabrik;
-import at.hm.sew.quackologie.Entenfabrik;
+import at.hm.sew.quackologie.ZaehlendeEntenFabrik;
 
-public class TestEntenfabrik {
+public class TestZaehlendeEntenfabrik {
 
 	AbstrakteEntenFabrik ef;
 	private ByteArrayOutputStream baos;
 	
 	@Before
 	public void before() {
-		ef = new Entenfabrik();
+		ef = new ZaehlendeEntenFabrik();
 		baos = new ByteArrayOutputStream();
 		PrintStream ps = new PrintStream(baos);
 		System.setOut(ps);
