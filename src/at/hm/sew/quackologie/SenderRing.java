@@ -18,7 +18,7 @@ public class SenderRing implements QuakBeobachtungsSubjekt {
 	/**
 	 * Erzeugt einen Senderring und übernimmt die Ente.
 	 * 
-	 * @param ente
+	 * @param ente die Ente
 	 */
 	public SenderRing(QuakBeobachtungsSubjekt ente) {
 		this.ente = ente;
